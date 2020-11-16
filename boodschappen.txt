@@ -2,3 +2,10 @@ tomaat
 kaas/geraspd
 deeg
 salami
+vis
+
+
+brood
+pasta
+pindakaas
+kaas
